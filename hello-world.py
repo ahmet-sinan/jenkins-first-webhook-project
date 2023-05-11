@@ -1,1 +1,1 @@
-print('AhmetSinanKarakurt.123456')
+print('Hello World')
